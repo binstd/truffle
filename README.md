@@ -1,4 +1,6 @@
-# Truffle 开发套件的中文网站 - 原版网站http://truffleframework.com
+# Truffle 开发套件的中文网站
+
+原版网站地址：http://truffleframework.com
 
 This is a [Metalsmith](http://www.metalsmith.io/) project.
 
