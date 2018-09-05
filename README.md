@@ -1,4 +1,4 @@
-# Truffle Suite website - http://truffleframework.com
+# Truffle 开发套件的中文网站 - 原版网站http://truffleframework.com
 
 This is a [Metalsmith](http://www.metalsmith.io/) project.
 
